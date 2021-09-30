@@ -86,6 +86,11 @@ build-edition \
     --landed-titles "vanilla/ck3ibl_landed_titles.txt" --landed-titles-name "873_MoreCulturalNames.txt"
 
 build-edition \
+    "sow-more-cultural-names" "Sinews of War - More Cultural Names" \
+    "CK3SOW" "1.3.*" \
+    --landed-titles "vanilla/ck3sow_landed_titles.txt" --landed-titles-name "874_MoreCulturalNames.txt"
+
+build-edition \
     "more-cultural-names" "More Cultural Names" \
     "HOI4" "1.10.*"
 
